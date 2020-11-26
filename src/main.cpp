@@ -2,9 +2,9 @@
 #include <Adafruit_NeoPixel.h>
 #include <EEPROM.h>
 
-#define STRIP_COUNT 40
+#define STRIP_COUNT 41
 #define STRIP_PIN 6
-#define FAN_COUNT 40
+#define FAN_COUNT 32
 #define FAN_PIN 5
 
 #define BUTTON 4
